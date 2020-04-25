@@ -6,7 +6,7 @@ class Campaign{
   final String country;
   final String state;
 
+  Campaign({this.uid, this.campaignName, this.deliveryAdress, this.city, this.country, this.state});
 
-  User({this.uid, this.firstName, this.lastName, this.type, this.username, this.country, this.state, this.city, this.userLocation});
 
 }
