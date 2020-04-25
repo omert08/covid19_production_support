@@ -1,0 +1,23 @@
+{
+  "title": "Hello",
+  "msg": "Hello {} ",
+  "clickMe": "Click me",
+  "settings": {
+    "title":"Settings",
+    "reset_password": {
+      "title": "Reset Password",
+      "username": "Username",
+      "password": "password"
+    }
+  },
+  "signin":"Sign in",
+  "signup":"Sign up",
+  "mainStream":"Production Stream",
+  "search":"Search",
+  "signout":"Sign Out",
+  "buymeacoffe":"Buy me a coffe !",
+  "profile":"Profile",
+  "report":"Report"
+
+}
+

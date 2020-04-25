@@ -1,0 +1,21 @@
+{
+  "title": "Merhaba",
+  "msg": "Merhaba {}",
+  "clickMe": "Beni tikla",
+  "settings": {
+    "title":"Ayarlar",
+    "reset_password": {
+      "title": "Parolayi sifirla",
+      "username": "Kullanici adi",
+      "password": "Parola"
+    }
+  },
+  "signin":"Giris yap",
+  "signup":"Kayit ol",
+  "mainStream":"Üretim Akışı",
+  "search":"Ara",
+  "signout":"Çıkış yap",
+  "buymeacoffe":"Bir kahve ısmarla !",
+  "profile":"Profil",
+  "report":"Bildir"
+}
