@@ -17,5 +17,21 @@
   "signout":"Çıkış yap",
   "buymeacoffe":"Bir kahve ısmarla !",
   "profile":"Profil",
-  "report":"Bildir"
+  "report":"Bildir",
+  "New Campaign":"Yeni yardım kampanyası",
+  "Please select a material type":"Lütfen üretilecek materyali seçin",
+  "Campaign name is required":"Bir kampanya adı girmelisiniz.",
+  "Campaign Name":"Kampanya Adı",
+  "Shelter":"Siperlik",
+  "Mask":"Maske",
+  "Ventilator":"Ventilatör",
+  "Others":"Diğer",
+  "Production Quantity":"Üretim Adeti",
+  "Submit":"Gönder",
+  "File Url Adress":"Dosya Url Adresi",
+  "Delivery Adress":"Teslimat Adresi"
+
+
+
+
 }
