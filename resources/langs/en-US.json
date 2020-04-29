@@ -17,7 +17,19 @@
   "signout":"Sign Out",
   "buymeacoffe":"Buy me a coffe !",
   "profile":"Profile",
-  "report":"Report"
+  "report":"Report",
+  "New Campaign":"New Campaign",
+  "Please select a material type":"Please select a material type",
+  "Campaign name is required":"Campaign name is required",
+  "Campaign Name":"Campaign Name",
+  "Shelter":"Shelter",
+  "Mask":"Mask",
+  "Ventilator":"Ventilator",
+  "Others":"Others",
+  "Production Quantity":"Production Quantity",
+  "Submit":"Submit",
+  "File Url Adress":"File Url Adress",
+  "Delivery Adress":"Delivery Adress"
 
 }
 

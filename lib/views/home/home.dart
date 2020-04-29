@@ -3,6 +3,8 @@ import 'package:easy_localization/easy_localization.dart';
 import 'package:covid19_production_app/services/auth.dart';
 import 'package:covid19_production_app/views/settings/settings.dart';
 
+import '../campaigns/add_campaign.dart';
+
 class Home extends StatefulWidget {
   @override
   _HomeState createState() => _HomeState();
@@ -12,6 +14,10 @@ class _HomeState extends State<Home> {
   Future _navigateToSettings(context) async {
     Navigator.push(
         context, MaterialPageRoute(builder: (context) => SettingsForm()));
+  }
+  Future _navigateToAddNewCampaign(context) async {
+    Navigator.push(
+        context, MaterialPageRoute(builder: (context) => AddCampaignView()));
   }
 
   final AuthService _auth = AuthService();
@@ -79,6 +85,7 @@ class _HomeState extends State<Home> {
               backgroundColor: Colors.redAccent,
               onPressed: (){
                 // navigate to add campaign
+                _navigateToAddNewCampaign(context);
               },
               child: Text(
                 '+',
